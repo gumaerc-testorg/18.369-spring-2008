@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 09f4d760-7dcb-b9bb-0e17-ee4c34d27854
 ---
@@ -139,7 +142,7 @@ Textbook: Chapter 3 (sections on mirror symmetry/polarization and time-reversal 
 {{< tdopen >}}
 Photonic band gaps in 1d, perturbation theory
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Textbook: Chapter 2 (section on perturbations), chapter 4 (introduction, sections on origin of the gap, and final section on omnidirectional reflection), chapter 10 (last section, discusses reflection, refraction, and diffraction)
@@ -201,7 +204,7 @@ Textbook: Chapter 5 (2d photonic crystals), appendix B (reciprocal lattice and B
 {{< tdopen >}}
 Band diagrams of 2d lattices, symmetries, and gaps
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 Textbook: Chapter 5
@@ -288,7 +291,7 @@ Watts, M. R., S. G. Johnson, H. A. Haus, and J. D. Joannopoulos. "Electromagneti
 {{< tdopen >}}
 Haus coupled-mode theory, resonance, and Q
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Textbook: Chapter 10
 {{< tdclose >}}
 

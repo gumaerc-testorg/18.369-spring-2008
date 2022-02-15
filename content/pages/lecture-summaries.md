@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: fe1f7256-1984-f912-56a1-5f2ea7828048
 ---
@@ -42,7 +45,7 @@ Modes of a metal box and mirror symmetry
 {{< tdopen >}}
 
 
-Solved toy example of 1d Hz(x) field between 2 metal plates. Discussed symmetry, and showed that a mirror plane σ implies eigenfields that are even or odd under the mirror plane, corresponding to a mirror-reflection operator that commutes with the eigen-operator. Defined how vector fields rotate, and showed that H is not a vector but a pseudo-vector - it picks up an extra factor of -1 under improper rotations (rotations of a mirror image, which have determinant -1). For this reason the H field "looks" odd when the E field is even, and vice versa, but the fields "really" have the same symmetry.
+Solved toy example of 1d H{{< sub "z" >}}(x) field between 2 metal plates. Discussed symmetry, and showed that a mirror plane σ implies eigenfields that are even or odd under the mirror plane, corresponding to a mirror-reflection operator that commutes with the eigen-operator. Defined how vector fields rotate, and showed that H is not a vector but a pseudo-vector - it picks up an extra factor of -1 under improper rotations (rotations of a mirror image, which have determinant -1). For this reason the H field "looks" odd when the E field is even, and vice versa, but the fields "really" have the same symmetry.
 
 Began a more complicated example of a field in a 2d metal box - here, there are many symmetry operations and to relate them we must use representation theory.
 
@@ -58,7 +61,7 @@ Began a more complicated example of a field in a 2d metal box - here, there are 
 Symmetry groups, representation theory, and eigenstates
 {{< tdclose >}}
 {{< tdopen >}}
-Representation theory. Proved that eigenstates transform as representations, and showed how this applies to 2d metal box (for which the states fall into three of the five possible representations). Discussed representations, equivalent and irreducible representations, conjugacy classes, and character tables. Showed how to get character table using the orthogonality rules without knowing the representations; found the character table for C4v (symmetry group of square).
+Representation theory. Proved that eigenstates transform as representations, and showed how this applies to 2d metal box (for which the states fall into three of the five possible representations). Discussed representations, equivalent and irreducible representations, conjugacy classes, and character tables. Showed how to get character table using the orthogonality rules without knowing the representations; found the character table for C{{< sub "4v" >}} (symmetry group of square).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +139,7 @@ Bloch's theorem, time reversal, and diffraction
 {{< tdopen >}}
 
 
-Reviewed Bloch's theorem, and stated it in its more-general 3d-periodic form, and showed how e.g. continuous translational symmetry is simply a special case. Described how the other space-group symmetries interact with k (i.e. the translational symmetries), and two effects in particular. First, the **point group** (space group ignoring translations) relates the states at one k to states at other k rotated by the symmetries, so that we only need to compute the eigenstates in a small region of k to get the eigenstates and eigenvalues everywhere. Second, the Bloch-envelope eigenstates at a particular k transform according to the symmetries of Θk, which are a **subset** of the space group of the whole system (k breaks some of the symmetry in general).
+Reviewed Bloch's theorem, and stated it in its more-general 3d-periodic form, and showed how e.g. continuous translational symmetry is simply a special case. Described how the other space-group symmetries interact with k (i.e. the translational symmetries), and two effects in particular. First, the **point group** (space group ignoring translations) relates the states at one k to states at other k rotated by the symmetries, so that we only need to compute the eigenstates in a small region of k to get the eigenstates and eigenvalues everywhere. Second, the Bloch-envelope eigenstates at a particular k transform according to the symmetries of Θ{{< sub "k" >}}, which are a **subset** of the space group of the whole system (k breaks some of the symmetry in general).
 
 Also discussed time-reversal symmetry. Reversing time is equivalent to conjugating the eigenproblem, and from this we saw that the k and -k eigenstates have the same eigenvalue. Time-reversal symmetry is broken, however, if Ε is complex - in particular, we still have a Hermitian problem if e is complex-Hermitian, but we don't have time-reversal symmetry. This can happen when you have an external magnetic field, and the resulting magneto-optic effect can be used to make optical isolators.
 
@@ -204,11 +207,11 @@ Waveguides and surface states, omni-directional reflection
 
 Examined off-axis propagating in 1d-periodic structures: projected band diagrams, Fabry-Perot waveguides, surface states, and omnidirectional mirrors. Much reference were made to the book-figure from lecture 8.
 
-Began with the off-axis band diagram, which causes the TM and TE bands to split - explained why TM bands lie lower than TE bands, due to the discontinuous boundary conditions of ∈|E|2.
+Began with the off-axis band diagram, which causes the TM and TE bands to split - explained why TM bands lie lower than TE bands, due to the discontinuous boundary conditions of ∈|E|{{< sup "2" >}}.
 
-Next considered the projected band diagram in which the ω for all values of kz (z = periodic direction) are plotted as a function of ky (y = parallel to layers), resulting in continuum regions. Related asymptotic behavior at large ky to ray-optics limit, explaining asymptotic slope and narrowing bandwidths.
+Next considered the projected band diagram in which the ω for all values of k{{< sub "z" >}} (z = periodic direction) are plotted as a function of k{{< sub "y" >}} (y = parallel to layers), resulting in continuum regions. Related asymptotic behavior at large k{{< sub "y" >}} to ray-optics limit, explaining asymptotic slope and narrowing bandwidths.
 
-Next considered a Fabry-Perot waveguide, formed by a defect in the periodic structure, giving rise to a guided band in the gap as a function of ky. Discussed criteria for whether this guided band intersects the continuum regions. Noted that we can now guide light in a **lower** index region (even air), quite different from index guiding.
+Next considered a Fabry-Perot waveguide, formed by a defect in the periodic structure, giving rise to a guided band in the gap as a function of k{{< sub "y" >}}. Discussed criteria for whether this guided band intersects the continuum regions. Noted that we can now guide light in a **lower** index region (even air), quite different from index guiding.
 
 Considered the surface states that arise at an interface - they are confined by index-guiding with respect to the homogeneous medium on one side of the interface and by the band gap with respect to the periodic structure on the other side of the interface. Claimed (without proof, yet), that there is always some crystal termination that gives rise to surface state(s).
 
@@ -240,7 +243,7 @@ Discussed "superluminal" situations with non-Hermitian systems (gain/loss or eva
 
 Discussed impact of group-velocity ("chromatic") dispersion (frequency-dependent group velocity), and defined the dispersion parameter D. Discussed divergence of D at zero-group-velocity point in Fabry-Perot waveguide, or at any band edge.
 
-Closed by preparing for 2d and 3d periodicity: derived/defined the primitive reciprocal lattice vectors Gi.
+Closed by preparing for 2d and 3d periodicity: derived/defined the primitive reciprocal lattice vectors G{{< sub "i" >}}.
 
 
 {{< tdclose >}}
@@ -264,11 +267,11 @@ Considered the 2d-periodic square lattice (in 2d). Defined its lattice vectors a
 
 Defined the first Brillouin zone (B.Z.) (and 2nd, 3rd,...) = pts closer to k=0 than to any other reciprocal lattice vector, and showed that this gives us all the inequivalent points and preserves the full rotational symmetry of the lattice. Showed how to construct it by using perpendicular bisectors between k=0 and other reciprocal lattice points.
 
-Constructed the first Brillouin zone in 1d, and also for the 2d square lattice. In these simple cases, the B.Z. is simply the unit cell of the recip. lattice, centered on k=0, but this is not always the case! Defined irreducible B.Z. (I.B.Z.), and constructed I.B.Z. for square lattice of circular rods (C4v symmetry).
+Constructed the first Brillouin zone in 1d, and also for the 2d square lattice. In these simple cases, the B.Z. is simply the unit cell of the recip. lattice, centered on k=0, but this is not always the case! Defined irreducible B.Z. (I.B.Z.), and constructed I.B.Z. for square lattice of circular rods (C{{< sub "4v" >}} symmetry).
 
 Defined special points Γ, X, and Μ for sq. lattice, and derived the space group in each of the different k regions. Discussed band diagram in 2d, and explained why we normally plot ω vs. k around the I.B.Z. boundary.
 
-Showed TM band diagram of sq. lattice of dielectric rods in air, and pointed out that non-accidental degeneracies only occur at Γ and Μ points (which have C4v symmetry and thus have a 2-dimensional irreducible representation).
+Showed TM band diagram of sq. lattice of dielectric rods in air, and pointed out that non-accidental degeneracies only occur at Γ and Μ points (which have C{{< sub "4v" >}} symmetry and thus have a 2-dimensional irreducible representation).
 
 
 {{< tdclose >}}
@@ -304,13 +307,13 @@ Triangular lattice, complete gaps, and point defects
 {{< tdopen >}}
 
 
-Continued studying triangular lattice. Found the B.Z. and I.B.Z. (with corners Γ, Μ, and Κ), and showed that it has C6v symmetry (which has 2 two-dim. irreduc. representations). Showed that this B.Z. is more circular than B.Z. of sq. lattice, which makes it easier to have a gap (for rods, index contrast must be only 1.3:1 to get a TM gap).
+Continued studying triangular lattice. Found the B.Z. and I.B.Z. (with corners Γ, Μ, and Κ), and showed that it has C{{< sub "6v" >}} symmetry (which has 2 two-dim. irreduc. representations). Showed that this B.Z. is more circular than B.Z. of sq. lattice, which makes it easier to have a gap (for rods, index contrast must be only 1.3:1 to get a TM gap).
 
-Showed that, in both sq. and tri. lattices, M point is a standing wave pattern along the next-nearest neighbor direction(s). Showed that K point has 2nd-nearest-neighbor periodicity and C3v symmetry.
+Showed that, in both sq. and tri. lattices, M point is a standing wave pattern along the next-nearest neighbor direction(s). Showed that K point has 2nd-nearest-neighbor periodicity and C{{< sub "3v" >}} symmetry.
 
 Showed TM/TE band diagram for tri. lattice of holes, which has complete TM+TE gap. Explained why first TM bands are doubly degenerate at Κ.
 
-Discussed point defect modes in a square lattice, formed by changing the radius of a single rod. Plotted localized mode frequencies vs. rod radius. Explained why reducing rod radius pushes up monopole mode from lower band at M, and increasing rod radius pulls down doubly-degenerate dipoles modes from upper band at X, and then pulls down more modes. Related the defect modes to the irreducible representations of the C4v symmetry group.
+Discussed point defect modes in a square lattice, formed by changing the radius of a single rod. Plotted localized mode frequencies vs. rod radius. Explained why reducing rod radius pushes up monopole mode from lower band at M, and increasing rod radius pulls down doubly-degenerate dipoles modes from upper band at X, and then pulls down more modes. Related the defect modes to the irreducible representations of the C{{< sub "4v" >}} symmetry group.
 
 
 {{< tdclose >}}
