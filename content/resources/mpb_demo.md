@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 8a05e28a-dff2-283b-c695-314f6fb1fe70
 resourcetype: Document
 title: 'MPB Demo '
 uid: c48b4a8d-bd31-4f30-f769-481ed1e57ff2

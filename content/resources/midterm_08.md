@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 27b668d7-7952-265d-1439-d262caacadda
 resourcetype: Document
 title: 2008 Midterm
 uid: 084ad5b9-3883-a526-d716-b0f590123e9b

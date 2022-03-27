@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 09f4d760-7dcb-b9bb-0e17-ee4c34d27854
 resourcetype: Document
 title: Notes on Perfectly Matched Layers (PMLs)
 uid: 70693bac-6c1f-f156-0068-017c0aeb41a7

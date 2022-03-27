@@ -44,9 +44,9 @@ Problem set 2 ([PDF]({{< baseurl >}}/resources/pset2))
 
 MPB demo ([PDF]({{< baseurl >}}/resources/mpb_demo))
 
-2dwaveguide.ctl ([CTL](/courses/mathematics/18-369-mathematical-methods-in-nanophotonics-spring-2008/assignments/2dwaveguide.ctl))
+2dwaveguide.ctl ([CTL]({{< baseurl >}}/resources/2dwaveguide))
 
-2dwaveguide-periodic.ctl ([CTL](/courses/mathematics/18-369-mathematical-methods-in-nanophotonics-spring-2008/assignments/2dwaveguideperiodic.ctl))
+2dwaveguide-periodic.ctl ([CTL]({{< baseurl >}}/resources/2dwaveguideperiodic))
 
 
 {{< tdclose >}}
@@ -61,9 +61,9 @@ MPB demo ([PDF]({{< baseurl >}}/resources/mpb_demo))
 
 Problem set 3 ([PDF]({{< baseurl >}}/resources/pset3))
 
-bandgap1d.ctl ([CTL](/courses/mathematics/18-369-mathematical-methods-in-nanophotonics-spring-2008/assignments/bandgap1d.ctl))
+bandgap1d.ctl ([CTL]({{< baseurl >}}/resources/bandgap1d))
 
-defect1d.ctl ([CTL](/courses/mathematics/18-369-mathematical-methods-in-nanophotonics-spring-2008/assignments/defect1d.ctl))
+defect1d.ctl ([CTL]({{< baseurl >}}/resources/defect1d))
 
 
 {{< tdclose >}}
@@ -78,7 +78,7 @@ defect1d.ctl ([CTL](/courses/mathematics/18-369-mathematical-methods-in-nanophot
 
 Problem set 4 ([PDF]({{< baseurl >}}/resources/pset4))
 
-defect1dsol.ctl ([CTL](/courses/mathematics/18-369-mathematical-methods-in-nanophotonics-spring-2008/assignments/defect1dsol.ctl))
+defect1dsol.ctl ([CTL]({{< baseurl >}}/resources/defect1dsol))
 
 
 {{< tdclose >}}
@@ -102,7 +102,7 @@ Problem set 5 ([PDF]({{< baseurl >}}/resources/pset5))
 
 Problem set 6 ([PDF]({{< baseurl >}}/resources/pset6))
 
-rod-transmission.ctl ([CTL](/courses/mathematics/18-369-mathematical-methods-in-nanophotonics-spring-2008/assignments/rodtransmission.ctl))
+rod-transmission.ctl ([CTL]({{< baseurl >}}/resources/rodtransmission))
 
 
 {{< tdclose >}}

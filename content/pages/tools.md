@@ -20,7 +20,7 @@ For more information on MPB, see the [MPB home page](http://ab-initio.mit.edu/wi
 
 For additional help on the use of MPB, read the MPB Demo ([PDF]({{< baseurl >}}/resources/mpb_demo))
 
-The demo uses the files 2dwaveguide.ctl ([CTL](/courses/mathematics/18-369-mathematical-methods-in-nanophotonics-spring-2008/assignments/2dwaveguide.ctl)) and 2dwaveguide-periodic.ctl ([CTL](/courses/mathematics/18-369-mathematical-methods-in-nanophotonics-spring-2008/assignments/2dwaveguideperiodic.ctl))
+The demo uses the files 2dwaveguide.ctl ([CTL]({{< baseurl >}}/resources/2dwaveguide)) and 2dwaveguide-periodic.ctl ([CTL]({{< baseurl >}}/resources/2dwaveguideperiodic))
 
 ### Harminv
 

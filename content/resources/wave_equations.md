@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 09f4d760-7dcb-b9bb-0e17-ee4c34d27854
 resourcetype: Document
 title: Notes on the Algebraic Structure of Wave Equations
 uid: e9165ee2-81f6-db68-6e9d-bdc1a556e045

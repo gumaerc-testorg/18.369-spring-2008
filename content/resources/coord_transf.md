@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 09f4d760-7dcb-b9bb-0e17-ee4c34d27854
 resourcetype: Document
 title: Coordinate Transformation & Invariance in Electromagnetism
 uid: 2963f0bb-d1bf-3aee-9a83-6efd7440d2c3
