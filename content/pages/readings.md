@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides a list of readings assigned from the course text.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 09f4d760-7dcb-b9bb-0e17-ee4c34d27854
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Readings listed below from 'Textbook' are from the required course text: Joannopoulos, John D., Steven G. Johnson, Robert D. Meade, and Joshua N. Winn. _Photonic Crystals: Molding the Flow of Light_. Princeton, NJ: Princeton University Press, 2008. ISBN: 9780691124568.
@@ -39,7 +44,7 @@ Textbook: Chapter 2
 
 For a more sophisticated treatment of Hilbert spaces, adjoints, and other topics in functional analysis, a good text is: Goldberg, Israel, Seymour Goldberg, and Marinus Kaashoek. _Basic Classes of Linear Operators_. Boston, MA: Birkhauser Verlag, 2004. ISBN: 9783764369309.
 
-Notes on the Algebraic Structure of Wave Equations ([PDF]({{< baseurl >}}/resources/wave_equations))
+Notes on the Algebraic Structure of Wave Equations ({{% resource_link e9165ee2-81f6-db68-6e9d-bdc1a556e045 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -209,7 +214,7 @@ Band diagrams of 2d lattices, symmetries, and gaps
 
 Textbook: Chapter 5
 
-Notes on Coordinate Transforms in Electromagnetism ([PDF]({{< baseurl >}}/resources/coord_transf))
+Notes on Coordinate Transforms in Electromagnetism ({{% resource_link 2963f0bb-d1bf-3aee-9a83-6efd7440d2c3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -262,7 +267,7 @@ Taflove, A., and S. C. Hagness. _Computational Electrodynamics: The Finite-Diffe
 Perfectly matched layers (PML), filter diagonalization
 {{< tdclose >}}
 {{< tdopen >}}
-Notes on Perfectly Matched Layers ([PDF]({{< baseurl >}}/resources/pml))
+Notes on Perfectly Matched Layers ({{% resource_link 70693bac-6c1f-f156-0068-017c0aeb41a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
