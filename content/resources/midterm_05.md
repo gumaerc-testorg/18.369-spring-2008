@@ -6,6 +6,7 @@ file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/fb5e78a0
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Midterm exam on 2d metallic electromagnetic cavities, reflected and transmitted light, Hermitian matrix, and band diagrams.
-

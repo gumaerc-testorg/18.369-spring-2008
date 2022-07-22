@@ -5,6 +5,7 @@ file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/084ad5b9
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Midterm exam on waveguide gaps, symmetry, and projected bands.
-

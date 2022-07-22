@@ -5,6 +5,7 @@ file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/2963f0bb
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on coordinate transformation and invariance in electromagnetism.
-

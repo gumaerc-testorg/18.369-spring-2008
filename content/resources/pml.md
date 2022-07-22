@@ -8,6 +8,7 @@ file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/70693bac
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes intended as a brief introduction to the theory and practice of perfectly matched layer (PML) absorbing boundaries for wave equations, intended for future use in the courses 18.369 and 18.336 at MIT. It focuses on the complex stretched-coordinate viewpoint, and also discusses the limitations of PML.
-

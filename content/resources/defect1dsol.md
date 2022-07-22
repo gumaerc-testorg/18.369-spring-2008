@@ -7,6 +7,7 @@ file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/9b91b1cf
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: defect1dsol
 uid: 9b91b1cf-9c2c-2f69-c2c8-0141d6d7ae7c
 ---
 Supporting file for Problem Set 4, on on group velocity and material dispersion, dispersion, projected band diagrams and omni-directional reflection, and Fabry-Perot Waveguides.
-

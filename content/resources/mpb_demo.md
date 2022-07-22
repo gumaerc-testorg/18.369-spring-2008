@@ -7,6 +7,7 @@ file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/c48b4a8d
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 A sequence of MIT Server and Matlab commands to be used in class with the numerical Maxwell eigensolver to perform a simple calculation and analyze the output.
-
