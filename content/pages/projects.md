@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides information on the assigned course project along
+  with titles and brief descriptions of final projects submitted by students.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 066c20f1-af64-c82f-1f9b-0a353e609893
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Project Description
