@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting file for Problem Set 3, on perturbation theory, band gaps
   in MPB, space group of k, and defect modes in MPB.
 file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/e1767ebbd2eb5768f6cc41cbc87a1162_defect1d.ctl
+file_size: 2759
 file_type: text/plain
 learning_resource_types:
 - Assignments
