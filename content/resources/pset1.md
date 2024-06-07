@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on adjoints and operators, completeness, Maxwell eigenproblems,
   and projection operators.
 file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/3e5b72d621acc22ee35281fdaae8937d_pset1.pdf
+file_size: 529914
 file_type: application/pdf
 learning_resource_types:
 - Assignments

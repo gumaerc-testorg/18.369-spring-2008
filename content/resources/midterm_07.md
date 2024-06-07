@@ -2,6 +2,7 @@
 content_type: resource
 description: Midterm exam on hexagons, band diagrams, and operators.
 file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/1df0858c64956ddd712ea2e6f1067a18_midterm_07.pdf
+file_size: 138205
 file_type: application/pdf
 learning_resource_types:
 - Exams
