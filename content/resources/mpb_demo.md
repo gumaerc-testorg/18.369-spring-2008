@@ -4,6 +4,7 @@ description: A sequence of MIT Server and Matlab commands to be used in class wi
   the numerical Maxwell eigensolver to perform a simple calculation and analyze the
   output.
 file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/c48b4a8dbd314f30f769481ed1e57ff2_mpb_demo.pdf
+file_size: 144076
 file_type: application/pdf
 learning_resource_types:
 - Tools

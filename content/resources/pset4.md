@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on group velocity and material dispersion, dispersion, projected
   band diagrams and omni-directional reflection, and Fabry-Perot Waveguides.
 file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/dce98d9593bbc54a2306bc53b961bd5c_pset4.pdf
+file_size: 415506
 file_type: application/pdf
 learning_resource_types:
 - Assignments

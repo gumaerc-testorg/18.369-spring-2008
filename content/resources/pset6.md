@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on Brillouin zones and band diagrams, line-defect modes,
   Galerkin methods, and the Meep finite- difference time-domain code.
 file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/0836c520d805e5224991632a0f824b41_pset6.pdf
+file_size: 520638
 file_type: application/pdf
 learning_resource_types:
 - Assignments

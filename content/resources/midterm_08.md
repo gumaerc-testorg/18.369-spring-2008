@@ -2,6 +2,7 @@
 content_type: resource
 description: Midterm exam on waveguide gaps, symmetry, and projected bands.
 file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/084ad5b93883a526d716b0f590123e9b_midterm_08.pdf
+file_size: 180263
 file_type: application/pdf
 learning_resource_types:
 - Exams
