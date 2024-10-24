@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting file for Problem Set 2, on the variational theorem, 2d waveguide
   modes, conservation laws, and numerical computations with MPB.
-file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/288863ed669015d30c9b8a499daa42e0_2dwaveguideperiodic.ctl
+file: /ol-ocw-studio-app/courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/288863ed669015d30c9b8a499daa42e0_2dwaveguideperiodic.ctl
 file_size: 2098
 file_type: text/plain
 learning_resource_types:
