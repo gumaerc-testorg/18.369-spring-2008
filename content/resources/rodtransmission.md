@@ -3,7 +3,7 @@ content_type: resource
 description: Supporting file for Problem Set 6, on Brillouin zones and band diagrams,
   line-defect modes, Galerkin methods, and the Meep finite- difference time-domain
   code.
-file: /ol-ocw-studio-app/courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/ff6ddf9e6cbb7b6b8941369d1a3606ea_rodtransmission.ctl
+file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/ff6ddf9e6cbb7b6b8941369d1a3606ea_rodtransmission.ctl
 file_size: 2229
 file_type: text/plain
 learning_resource_types:
