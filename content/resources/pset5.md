@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on mathematical methods in nanophotonics.
-file: /ol-ocw-studio-app/courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/9f4ffe0490896498cc34918224f6b9d5_pset5.pdf
+file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/9f4ffe0490896498cc34918224f6b9d5_pset5.pdf
 file_size: 641883
 file_type: application/pdf
 learning_resource_types:
