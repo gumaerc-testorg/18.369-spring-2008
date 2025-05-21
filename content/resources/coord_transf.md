@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on coordinate transformation and invariance in electromagnetism.
-file: /ol-ocw-studio-app/courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/2963f0bbd1bf3aee9a836efd7440d2c3_coord_transf.pdf
+file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/2963f0bbd1bf3aee9a836efd7440d2c3_coord_transf.pdf
 file_size: 153517
 file_type: application/pdf
 learning_resource_types:
