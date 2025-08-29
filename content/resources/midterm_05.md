@@ -2,7 +2,7 @@
 content_type: resource
 description: Midterm exam on 2d metallic electromagnetic cavities, reflected and transmitted
   light, Hermitian matrix, and band diagrams.
-file: /courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/fb5e78a049f1c863d2781f3bd64d35e3_midterm_05.pdf
+file: /ol-ocw-studio-app/courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/fb5e78a049f1c863d2781f3bd64d35e3_midterm_05.pdf
 file_size: 637841
 file_type: application/pdf
 learning_resource_types:
