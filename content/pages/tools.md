@@ -21,7 +21,7 @@ The MPB package is a free program for computing the band structures (dispersion 
 
 This program computes definite-frequency eigenstates of Maxwell's equations in periodic dielectric structures for arbitrary wavevectors, using fully-vectorial and three-dimensional methods. It is especially designed for the study of photonic crystals (a.k.a. photonic band-gap materials), but is also applicable to many other problems in optics, such as waveguides and resonator systems. (For example, it can solve for the modes of waveguides with arbitrary cross-sections.)
 
-For more information on MPB, see the [MPB home page](http://ab-initio.mit.edu/wiki/index.php/MIT_Photonic_Bands) and the [MPB manual](http://ab-initio.mit.edu/wiki/index.php/MPB_manual). Hopefully, you shouldn't need to know much Scheme (just think of it as a file format with lots of parentheses), but see these [Guile and Scheme links](http://ab-initio.mit.edu/wiki/index.php/Guile_and_Scheme_links) (GNU Guile is the Scheme implementation used in MPB).
+For more information on MPB, see the {{% resource_link "10d3708d-bea1-482d-9894-b439bfaebb80" "MPB home page" %}} and the {{% resource_link "0c15c20d-430e-47f5-9e20-011b6b031432" "MPB manual" %}}. Hopefully, you shouldn't need to know much Scheme (just think of it as a file format with lots of parentheses), but see these {{% resource_link "42f7a436-b0ec-4843-8b1b-3122abef5d6e" "Guile and Scheme links" %}} (GNU Guile is the Scheme implementation used in MPB).
 
 For additional help on the use of MPB, read the MPB Demo ({{% resource_link c48b4a8d-bd31-4f30-f769-481ed1e57ff2 "PDF" %}})
 
@@ -33,10 +33,10 @@ Harminv is a free program (and accompanying library) to solve the problem of har
 
 You can use the harminv program to compute resonant frequencies and loss rates from time-domain simulation, using filter-diagonalization methods (FDM) in the Fourier basis as discussed in Lecture 18.
 
-See [harminv](http://ab-initio.mit.edu/wiki/index.php/Harminv) for more information and to download this program.
+See {{% resource_link "52cd1da3-8996-4d55-ba9f-7dd83f66cfd9" "harminv" %}} for more information and to download this program.
 
 ### Meep
 
 Meep is a free finite-difference time-domain (FDTD) simulation software package developed at MIT to model electromagnetic systems.
 
-To download Meep and for additional information, see the [Meep Web site](http://ab-initio.mit.edu/wiki/index.php/Meep).
+To download Meep and for additional information, see the {{% resource_link "cbe93110-b8a2-458a-8b60-f40a76a47561" "Meep Web site" %}}.
