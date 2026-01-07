@@ -36,7 +36,7 @@ Texts
 -----
 
 Joannopoulos, John D., Steven G. Johnson, Robert D. Meade, and Joshua N. Winn. _Photonic Crystals: Molding the Flow of Light_. Princeton, NJ: Princeton University Press, 2008. ISBN: 9780691124568.  
-This book is at an undergraduate level, and 18.369 is somewhat more advanced, but the book should provide a useful foundation. You can {{% resource_link "679134c5-82ea-4fee-9309-48b2743d3796" "read the book online" %}}.
+This book is at an undergraduate level, and 18.369 is somewhat more advanced, but the book should provide a useful foundation. You can [read the book online](http://ab-initio.mit.edu/book/).
 
 Useful (but not required) books for this course:
 
